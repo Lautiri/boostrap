@@ -1,0 +1,106 @@
+header{
+    padding: 0.1rem 0;
+    background-color: #371B58;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+}
+.points{
+    list-style: none;
+}
+.head{
+    flex:content;
+
+}
+.fondo{
+    background-color: rgb(148, 176, 212);
+    width: 1400px;
+
+}
+.subti{
+    text-decoration: none;
+    display: flex;
+    font-family: 'Fascinate', cursive;
+    padding: 9px 10px;
+    position: relative;
+    color: #7858A6;
+}
+.marco{
+    border-radius: 5px;
+    border-image:stretch;
+}
+.acomodo{
+    display:block;   
+    font-family: 'Oswald', sans-serif;
+}
+.header{
+    display: flex;
+}
+.imagen{
+    right: 240px;
+    top: 50px;
+    padding: 10px;
+}
+.posi{
+    margin: 0px;
+    left: 0px;
+
+}
+.posi2{
+    position: fixed;
+    left: 1100px;
+    top: 50px;
+}
+.posi3{
+    position: fixed;
+    left: 650px;
+    top: 0px;
+    font-size: 40px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+section{
+    position: static;
+    bottom: 500px;
+}
+footer{
+    background-color: #bca8d8;
+    padding: 10px;
+    position: relative;
+    
+}
+.iconos{
+    width: 50px;
+    height: 50px;
+}
+p{
+    position:fixed; 
+    font family :'Mochiy Pop P One', sans-serif;
+}
+.relative{
+    position: absolute;
+
+    top: 100px;
+}
+
+.pie{
+    padding: 300 300px;
+}
+.psi{
+    position:static;
+}
+.snimg{
+    width: 500px;
+    height: 500px;
+}
+.fix{
+    position: none;
+}
+.posi5{
+    position:fixed;
+    top: 300px;
+}
+.posi6{
+    position: absolute;
+    top: 700px;
+}
