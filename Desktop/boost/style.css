@@ -1,0 +1,34 @@
+.im{
+    width: 100px;
+    height: 100px;
+}
+.center{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+    background-color: black;
+    color: aliceblue;
+}
+.d{
+    color: rgb(136, 114, 156);
+}
+.foot{
+    background-color: rgb(139, 119, 158);
+    color: rgb(0, 0, 0);
+    padding: 50px 20px;
+    margin-top: 50px;
+}
+.foot__g{
+    display: grid;
+    grid-template-columns: repeat(3. 1fr);
+    gap: 30px;
+}
+.foot__g h3{
+    color: rgb(146, 96, 161);
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+li{
+   list-style: none;
+   color: ghostwhite;
+}
